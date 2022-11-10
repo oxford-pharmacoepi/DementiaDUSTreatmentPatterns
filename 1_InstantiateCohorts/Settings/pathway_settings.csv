@@ -1,0 +1,16 @@
+param,analysis1
+studyName,DEMDUS
+targetCohortId,1
+eventCohortIds,"2,3,4,5"
+includeTreatmentsPriorToIndex,0
+minEraDuration,5
+splitEventCohorts,
+eraCollapseSize,30
+combinationWindow,30
+minStepDuration,30
+filterTreatments,Changes
+maxPathLength,5
+minCellCount,5
+minCellMethod,Adjust
+groupCombinations,10
+addNoPaths,TRUE

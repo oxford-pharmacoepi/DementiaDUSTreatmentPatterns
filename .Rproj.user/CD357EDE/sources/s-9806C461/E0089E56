@@ -3,7 +3,7 @@
     "path": "~/GitHub/DementiaDUSTreatmentPatterns/RunAnalysis.R",
     "project_path": "RunAnalysis.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1692373800",
     "contents": "",
     "dirty": false,
     "created": 1668084412603.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,31",
-        "scrollLine": "6"
+        "cursorPosition": "26,14",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1668086534,
+    "lastKnownWriteTime": 1668094995,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1668086534825,
+    "last_content_update": 1668094995384,
     "read_only": false,
     "read_only_alternatives": []
 }

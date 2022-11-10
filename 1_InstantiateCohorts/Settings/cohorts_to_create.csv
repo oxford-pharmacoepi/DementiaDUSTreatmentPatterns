@@ -1,0 +1,6 @@
+cohortId,cohortName,cohortType,atlasId,conceptSet
+1,any_dementia,target,,
+2,donepezil,event,,
+3,galantamine,event,,
+4,memantine,event,,
+5,rivastigmine,event,,
