@@ -17,7 +17,7 @@ library(dplyr)
 
 # database metadata and connection details -----
 # The name/ acronym for the database
-db.name<-"..."
+db.name<-"CPRD_AURUM"
 
 # database connection details
 server<-"..."
