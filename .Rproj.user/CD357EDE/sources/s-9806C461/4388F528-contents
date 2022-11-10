@@ -7,6 +7,12 @@ renv::activate()
 # load the below packages 
 # you should have them all available, with the required version, after
 # having run renv::restore above
+#install.packages("remotes")
+# install.packages("drat")
+# drat::addRepo("OHDSI")
+# install.packages("OhdsiSharing")
+#remotes::install_github("mi-erasmusmc/TreatmentPatterns")
+library(TreatmentPatterns)
 library(DatabaseConnector)
 library(CirceR)
 library(CohortGenerator)
@@ -60,5 +66,6 @@ disconnect(conn)
 source(here("RunAnalysis.R"))
 
 # Review results -----
-#TBC
-
+TreatmentPatterns::launchResultsExplorer(saveSettings = saveSettings)
+TreatmentPatterns::launchResultsExplorer(outputFolder = file.path(saveSettings$rootFolder, "ouput"))
+TreatmentPatterns::launchResultsExplorer(zipFolder = saveSettings$rootFolder)
