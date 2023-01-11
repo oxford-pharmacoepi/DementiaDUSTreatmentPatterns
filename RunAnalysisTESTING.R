@@ -91,6 +91,8 @@ TreatmentPatterns::executeTreatmentPatterns(dataSettings = dataSettings,
 
 
 
+
+
 # Review results -----
 TreatmentPatterns::launchResultsExplorer(saveSettings = saveSettings)
 TreatmentPatterns::launchResultsExplorer(outputFolder = file.path(saveSettings$rootFolder, "output"))
