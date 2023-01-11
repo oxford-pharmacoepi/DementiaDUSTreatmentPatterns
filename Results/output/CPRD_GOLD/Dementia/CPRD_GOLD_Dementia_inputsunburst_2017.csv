@@ -1,0 +1,17 @@
+"path","freq"
+"donepezil-End",1277
+"memantine-End",794
+"rivastigmine-End",235
+"donepezil-donepezil+memantine-End",223
+"galantamine-End",93
+"donepezil-donepezil+rivastigmine-End",35
+"donepezil-donepezil+galantamine-End",33
+"galantamine-galantamine+memantine-End",21
+"donepezil+memantine-End",20
+"rivastigmine-memantine+rivastigmine-End",20
+"donepezil-donepezil+rivastigmine-donepezil+memantine+rivastigmine-End",16
+"memantine-donepezil+memantine-End",10
+"memantine+rivastigmine-End",9
+"donepezil-donepezil+galantamine-donepezil+galantamine+memantine-End",7
+"donepezil+rivastigmine-End",6
+"memantine-memantine+rivastigmine-End",6

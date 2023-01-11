@@ -1,0 +1,431 @@
+2022-12-08 11:27:40	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 11:27:40	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 11:27:40	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:27:41	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:27:41	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 11:27:41	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 11:27:41	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 11:27:41	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:27:42	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:27:42	[Main thread]	FATAL	data.table	setnames	Can't assign 4 names to a 5 column data.table
+2022-12-08 11:29:30	[Main thread]	FATAL			could not find function "problems"
+2022-12-08 11:38:43	[Main thread]	FATAL	vroom	check_path	'TreatmentPatterns/examples/other format/inst/settings/cohorts_to_create.csv' does not exist in current working directory ('/home/dnewby/R/DementiaDUSTreatmentPatterns').
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 11:43:18	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: HTN
+2022-12-08 11:43:18	[Main thread]	FATAL	TreatmentPatterns	doCreateTreatmentHistory	argument is of length zero
+2022-12-08 11:43:44	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 11:43:44	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 11:43:44	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:43:45	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:43:45	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 11:43:45	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 11:43:45	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 11:43:45	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:43:46	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:43:46	[Main thread]	FATAL	data.table	setnames	Can't assign 4 names to a 5 column data.table
+2022-12-08 11:47:59	[Main thread]	FATAL			could not find function "data.table"
+2022-12-08 11:48:52	[Main thread]	FATAL	renv	install	object 'data.table' not found
+2022-12-08 11:48:52	[Main thread]	INFO	data.table	fun	data.table 1.14.6 using 10 threads (see ?getDTthreads).  Latest news: r-datatable.com 
+2022-12-08 11:48:52	[Main thread]	INFO			 Attaching package: ‘data.table’  
+2022-12-08 11:48:52	[Main thread]	INFO			The following objects are masked from ‘package:dplyr’:      between, first, last  
+2022-12-08 11:48:58	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:48:58	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:53:40	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 11:53:40	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 11:53:40	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:53:40	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:53:41	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 11:53:41	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 11:53:41	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 11:53:41	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:53:42	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:53:42	[Main thread]	FATAL	data.table	setnames	Can't assign 4 names to a 5 column data.table
+2022-12-08 11:54:03	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:54:04	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:56:45	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:56:46	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 11:58:45	[Main thread]	INFO	vctrs	describe_repair	[1m[22mNew names: [36m•[39m `` -> `...1`
+2022-12-08 11:58:45	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 12:00:44	[Main thread]	WARN	utils	write.csv	attempt to set 'col.names' ignored
+2022-12-08 12:01:14	[Main thread]	WARN	utils	write.csv	attempt to set 'col.names' ignored
+2022-12-08 12:04:50	[Main thread]	WARN	cli		[1m[22mOne or more parsing issues, call `problems()` on your data frame for details, e.g.:   dat <- vroom(...)   problems(dat)
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:09:29	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: DEMDUS
+2022-12-08 12:09:31	[Main thread]	FATAL	TreatmentPatterns	doCreateTreatmentHistory	argument is of length zero
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:17:25	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: HTN
+2022-12-08 12:17:25	[Main thread]	FATAL	TreatmentPatterns	doCreateTreatmentHistory	argument is of length zero
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:19:03	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: DEMDUS
+2022-12-08 12:19:04	[Main thread]	WARN	TreatmentPatterns	doCreateTreatmentHistory	includeTreatments input incorrect, return all event cohorts ('includeTreatments')
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 0
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 0
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 0
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.000115442276000977
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 12:19:04	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to min; returning Inf
+2022-12-08 12:19:04	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to max; returning -Inf
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 0
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: DEMDUS
+2022-12-08 12:19:04	[Main thread]	WARN	TreatmentPatterns	getPathways	Data is empty for study settings DEMDUS
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	getPathways	Data is empty for study settings DEMDUS
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 12:19:04	[Main thread]	INFO	TreatmentPatterns	ensure_installed	‘shiny’ must be installed for this functionality. Would you like to install it? 
+2022-12-08 12:19:26	[Main thread]	INFO	TreatmentPatterns	ensure_installed	‘shinydashboard’ must be installed for this functionality. Would you like to install it? 
+2022-12-08 12:19:30	[Main thread]	INFO	TreatmentPatterns	ensure_installed	‘ggplot2’ must be installed for this functionality. Would you like to install it? 
+2022-12-08 12:19:32	[Main thread]	INFO	TreatmentPatterns	ensure_installed	‘DT’ must be installed for this functionality. Would you like to install it? 
+2022-12-08 12:19:42	[Main thread]	INFO	shiny	runApp	Loading required package: shiny 
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	 Attaching package: ‘shinydashboard’  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	The following object is masked from ‘package:graphics’:      box  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	 Attaching package: ‘reshape2’  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	The following objects are masked from ‘package:data.table’:      dcast, melt  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	 Attaching package: ‘DT’  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	..stacktraceon..	The following objects are masked from ‘package:shiny’:      dataTableOutput, renderDataTable  
+2022-12-08 12:19:43	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 12:20:09	[Main thread]	WARN	shiny	printError	Error in colnames<-: attempt to set 'colnames' on an object with less than two dimensions
+2022-12-08 12:20:09	[Main thread]	WARN	shiny	printError	Error in colnames<-: attempt to set 'colnames' on an object with less than two dimensions
+2022-12-08 12:20:09	[Main thread]	WARN	shiny	printError	Error in colnames<-: attempt to set 'colnames' on an object with less than two dimensions
+2022-12-08 12:20:09	[Main thread]	WARN	shiny	printError	Error in <-: 'names' attribute [1] must be the same length as the vector [0]
+2022-12-08 12:20:15	[Main thread]	WARN	shiny	printError	Error in : value.var (AVG_DURATION) not found in input
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:26:34	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: DEMDUS
+2022-12-08 12:26:35	[Main thread]	WARN	TreatmentPatterns	doCreateTreatmentHistory	includeTreatments input incorrect, return all event cohorts ('includeTreatments')
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 0
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 0
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 0
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.000118684768676758
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 12:26:35	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to min; returning Inf
+2022-12-08 12:26:35	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to max; returning -Inf
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 0
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: DEMDUS
+2022-12-08 12:26:35	[Main thread]	WARN	TreatmentPatterns	getPathways	Data is empty for study settings DEMDUS
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	getPathways	Data is empty for study settings DEMDUS
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 12:26:35	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 12:26:35	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: HTN
+2022-12-08 12:35:53	[Main thread]	WARN	TreatmentPatterns	doCreateTreatmentHistory	includeTreatments input incorrect, return all event cohorts ('includeTreatments')
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 0
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 0
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 0
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.000117568174997965
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 12:35:53	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to min; returning Inf
+2022-12-08 12:35:53	[Main thread]	WARN	data.table	[.data.table	no non-missing arguments to max; returning -Inf
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 0
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: HTN
+2022-12-08 12:35:53	[Main thread]	WARN	TreatmentPatterns	getPathways	Data is empty for study settings HTN
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	getPathways	Data is empty for study settings HTN
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 12:35:53	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 12:35:53	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:45:02	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: default
+2022-12-08 12:45:04	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 12:45:04	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 12:45:05	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 12:45:08	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:45:12	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57613
+2022-12-08 12:45:15	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 57613: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:45:20	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57578
+2022-12-08 12:45:23	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 57578: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:45:28	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57577
+2022-12-08 12:45:31	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 57577
+2022-12-08 12:45:31	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.438729695479075
+2022-12-08 12:45:31	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 12:45:31	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 57577
+2022-12-08 12:45:31	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 12:45:32	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 57577
+2022-12-08 12:45:32	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 12:45:33	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 12:45:35	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 12:45:35	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 12:45:35	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: default
+2022-12-08 12:45:35	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 12:45:39	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 12:45:39	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 12:45:40	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  38  paths with too low frequency (without year)
+2022-12-08 12:45:40	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  406  paths with too low frequency (with year)
+2022-12-08 12:45:40	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 12:45:40	[Main thread]	INFO	methods	setMethod	Creating a generic function for ‘toJSON’ from package ‘jsonlite’ in package ‘googleVis’ 
+2022-12-08 12:45:40	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 12:45:40	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 12:45:42	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 12:45:42	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 12:45:42	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 12:45:42	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 12:45:59	[Main thread]	WARN	shiny	printError	Error in : value.var (mean) not found in input
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 12:49:25	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: default
+2022-12-08 12:49:28	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 12:49:28	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 12:49:28	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 12:49:31	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:49:36	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57613
+2022-12-08 12:49:40	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 57613: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:49:44	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57578
+2022-12-08 12:49:48	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 57578: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 12:49:52	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57577
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 57577
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.463643411795298
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 57577
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 57577
+2022-12-08 12:49:56	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 12:49:57	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 12:49:59	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 12:49:59	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 12:49:59	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: default
+2022-12-08 12:50:00	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  38  paths with too low frequency (without year)
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  406  paths with too low frequency (with year)
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 12:50:04	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 12:50:05	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 12:50:06	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 12:50:07	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 12:50:07	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 12:50:07	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 12:50:58	[Main thread]	WARN	shiny	printError	Error in : value.var (mean) not found in input
+2022-12-08 13:05:17	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 13:05:17	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 13:05:17	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 13:05:17	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 13:05:17	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 13:05:18	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: default
+2022-12-08 13:05:20	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 13:05:20	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 13:05:20	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 13:05:23	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:05:27	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57613
+2022-12-08 13:05:31	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 57613: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:05:34	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57578
+2022-12-08 13:05:38	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 57578: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:05:42	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57577
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 57577
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.410659277439117
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 57577
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 57577
+2022-12-08 13:05:45	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 13:05:46	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 13:05:48	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 13:05:48	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 13:05:48	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: default
+2022-12-08 13:05:49	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  38  paths with too low frequency (without year)
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  406  paths with too low frequency (with year)
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 13:05:53	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 13:05:54	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 13:05:56	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 13:05:56	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 13:05:56	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	launchShiny TRUE
+2022-12-08 13:05:56	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 13:47:32	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 13:47:45	[Main thread]	WARN	shiny	printError	Error in : value.var (mean) not found in input
+2022-12-08 13:48:48	[Main thread]	FATAL	TreatmentPatterns	launchResultsExplorer	Input outputFolder, zipFolder or saveSettings
+2022-12-08 13:49:02	[Main thread]	FATAL			unused argument (output.folder = file.path(saveSettings$rootFolder, "output"))
+2022-12-08 13:49:36	[Main thread]	INFO	shiny	startApp	 Listening on http://127.0.0.1:5566 
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 13:56:50	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: Dementia
+2022-12-08 13:56:53	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 13:56:53	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 13:56:54	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 13:56:57	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:57:01	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57613
+2022-12-08 13:57:05	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 57613: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:57:10	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57578
+2022-12-08 13:57:13	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 57578: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 13:57:18	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57577
+2022-12-08 13:57:21	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 57577
+2022-12-08 13:57:21	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.453222060203552
+2022-12-08 13:57:21	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 13:57:21	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 57577
+2022-12-08 13:57:21	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 13:57:22	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 57577
+2022-12-08 13:57:22	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 13:57:23	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 13:57:25	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 13:57:25	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 13:57:25	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: Dementia
+2022-12-08 13:57:25	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 13:57:30	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  38  paths with too low frequency (without year)
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  406  paths with too low frequency (with year)
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 13:57:31	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 13:57:33	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 13:57:34	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 14:02:48	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: Dementia
+2022-12-08 14:02:51	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 14:02:51	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 14:02:51	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 14:02:54	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:02:58	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 56692
+2022-12-08 14:03:02	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 56692: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:03:06	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 56560
+2022-12-08 14:03:09	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 56560: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:03:14	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 56543
+2022-12-08 14:03:17	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 56543
+2022-12-08 14:03:17	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.435161892573039
+2022-12-08 14:03:17	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 14:03:17	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 56543
+2022-12-08 14:03:17	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 14:03:18	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 56543
+2022-12-08 14:03:18	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 14:03:19	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 14:03:21	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 14:03:21	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 14:03:21	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: Dementia
+2022-12-08 14:03:21	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 14:03:25	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 14:03:25	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 14:03:26	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  40  paths with too low frequency (without year)
+2022-12-08 14:03:26	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  443  paths with too low frequency (with year)
+2022-12-08 14:03:26	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 14:03:26	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 14:03:26	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 14:03:28	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 14:03:28	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	createCohorts	Counting cohorts
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	createCohorts	createCohorts done.
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runConstructPathways TRUE
+2022-12-08 14:20:42	[Main thread]	INFO	TreatmentPatterns	constructPathways	Constructing treatment pathways: Dementia
+2022-12-08 14:20:44	[Main thread]	INFO	TreatmentPatterns	constructPathways	Construct treatment pathways, this may take a while for larger datasets.
+2022-12-08 14:20:44	[Main thread]	INFO	TreatmentPatterns	doEraDuration	After minEraDuration: 58217
+2022-12-08 14:20:45	[Main thread]	INFO	TreatmentPatterns	doEraCollapse	After eraCollapseSize: 58217
+2022-12-08 14:20:48	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 1 modifying  7195 selected rows out of 58217: 0 switches, 7195 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:20:52	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57613
+2022-12-08 14:20:55	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 2 modifying  681 selected rows out of 57613: 0 switches, 681 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:20:59	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57578
+2022-12-08 14:21:02	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Iteration 3 modifying  52 selected rows out of 57578: 0 switches, 52 combinations FRFS and 0 combinations LRFS
+2022-12-08 14:21:06	[Main thread]	INFO	TreatmentPatterns	doStepDuration	After minPostCombinationDuration: 57577
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	After combinationWindow: 57577
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	doCombinationWindow	Time needed to execute combination window 0.399657722314199
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	Order the combinations.
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	doFilterTreatments	After filterTreatments: 57577
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding drug sequence number.
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	doMaxPathLength	After maxPathLength: 57577
+2022-12-08 14:21:09	[Main thread]	INFO	TreatmentPatterns	constructPathways	Adding concept names.
+2022-12-08 14:21:10	[Main thread]	INFO	TreatmentPatterns	constructPathways	Ordering the combinations.
+2022-12-08 14:21:12	[Main thread]	INFO	TreatmentPatterns	constructPathways	constructPathways done.
+2022-12-08 14:21:12	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runGenerateOutput TRUE
+2022-12-08 14:21:12	[Main thread]	INFO	TreatmentPatterns	generateOutput	Creating output: Dementia
+2022-12-08 14:21:13	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	outputTreatedPatients	outputTreatedPatients done
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	outputDurationEras	outputDurationEras done
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  38  paths with too low frequency (without year)
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	Remove  406  paths with too low frequency (with year)
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	doMinCellCount	doMinCellCount done
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	outputSankeyDiagram	outputSankeyDiagram done
+2022-12-08 14:21:17	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 14:21:19	[Main thread]	INFO	TreatmentPatterns	outputSunburstPlot	outputSunburstPlot done
+2022-12-08 14:21:19	[Main thread]	INFO	TreatmentPatterns	generateOutput	generateOutput done.
+2023-01-11 12:19:15	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2023-01-11 12:19:15	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2023-01-11 12:19:16	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:19:16	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating table for the cohorts
+2023-01-11 12:19:16	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating inclusion rule statistics tables
+2023-01-11 12:19:17	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error executing SQL: org.postgresql.util.PSQLException: ERROR: must be owner of table cohort_inclusion An error report has been created at  /home/dnewby/R/DementiaDUSTreatmentPatterns/errorReportSql.txt
+2023-01-11 12:20:14	[Main thread]	FATAL			object 'rlang::last_error()' not found
+2023-01-11 12:23:04	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:23:04	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating table for the cohorts
+2023-01-11 12:23:05	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating inclusion rule statistics tables
+2023-01-11 12:23:05	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error executing SQL: org.postgresql.util.PSQLException: ERROR: must be owner of table cohort_inclusion An error report has been created at  /home/dnewby/R/DementiaDUSTreatmentPatterns/errorReportSql.txt
+2023-01-11 12:23:39	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:23:56	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2023-01-11 12:23:56	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2023-01-11 12:23:56	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:23:57	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating table for the cohorts
+2023-01-11 12:23:57	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating inclusion rule statistics tables
+2023-01-11 12:23:57	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error executing SQL: org.postgresql.util.PSQLException: ERROR: must be owner of table cohort_inclusion An error report has been created at  /home/dnewby/R/DementiaDUSTreatmentPatterns/errorReportSql.txt
+2023-01-11 12:29:42	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:29:42	[Main thread]	FATAL	DatabaseConnector	findPathToJar	No drivers matching pattern '^postgresql-.*\.jar$'found in folder '/home/dnewby'.  Please download the JDBC drivers for your database to the folder. See `?jdbcDrivers` for instructions on downloading the drivers.
+2023-01-11 12:29:58	[Main thread]	INFO	DatabaseConnector	downloadJdbcDrivers	Consider adding `DATABASECONNECTOR_JAR_FOLDER='/home/dnewby/R/DementiaDUSTreatmentPatterns'` to /home/dnewby/.Renviron and restarting R.
+2023-01-11 12:29:59	[Main thread]	INFO	DatabaseConnector	downloadJdbcDrivers	DatabaseConnector postgresql JDBC driver downloaded to '/home/dnewby/R/DementiaDUSTreatmentPatterns'.
+2023-01-11 12:30:17	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:30:17	[Main thread]	FATAL	DatabaseConnector	findPathToJar	No drivers matching pattern '^postgresql-.*\.jar$'found in folder '/home/dnewby'.  Please download the JDBC drivers for your database to the folder. See `?jdbcDrivers` for instructions on downloading the drivers.
+2023-01-11 12:34:01	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:36:57	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2023-01-11 12:36:57	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2023-01-11 12:36:57	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:36:57	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating table for the cohorts
+2023-01-11 12:36:57	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating inclusion rule statistics tables
+2023-01-11 12:36:57	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error executing SQL: org.postgresql.util.PSQLException: ERROR: must be owner of table cohort_inclusion An error report has been created at  /home/dnewby/R/DementiaDUSTreatmentPatterns/errorReportSql.txt
+2023-01-11 12:38:32	[Main thread]	FATAL			could not find function "loadRenderTranslateSql"
+2023-01-11 12:40:10	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 12:41:21	[Main thread]	FATAL	checkmate	assertCharacter	argument "packageName" is missing, with no default
+2023-01-11 13:10:39	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 13:23:40	[Main thread]	INFO	DatabaseConnector	downloadJdbcDrivers	Consider adding `DATABASECONNECTOR_JAR_FOLDER='/home/dnewby/R/DementiaDUSTreatmentPatterns'` to /home/dnewby/.Renviron and restarting R.
+2023-01-11 13:23:40	[Main thread]	INFO	DatabaseConnector	downloadJdbcDrivers	DatabaseConnector postgresql JDBC driver downloaded to '/home/dnewby/R/DementiaDUSTreatmentPatterns'.
+2023-01-11 13:23:41	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 13:23:47	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	Running package version 1.0.0
+2023-01-11 13:23:47	[Main thread]	INFO	TreatmentPatterns	executeTreatmentPatterns	runCreateCohorts TRUE
+2023-01-11 13:23:47	[Main thread]	INFO	DatabaseConnector	connect	Connecting using PostgreSQL driver
+2023-01-11 13:23:47	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating table for the cohorts
+2023-01-11 13:23:48	[Main thread]	INFO	TreatmentPatterns	createCohorts	Creating inclusion rule statistics tables
+2023-01-11 13:23:48	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error executing SQL: org.postgresql.util.PSQLException: ERROR: must be owner of table cohort_inclusion An error report has been created at  /home/dnewby/R/DementiaDUSTreatmentPatterns/errorReportSql.txt

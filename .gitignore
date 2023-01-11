@@ -1,3 +1,5 @@
-CodeToRun_local.R
-.Rproj.user
 CodeToRunLocal.R
+postgresql-42.2.18.jar
+.Rproj.user*
+.Rhistory
+Results*

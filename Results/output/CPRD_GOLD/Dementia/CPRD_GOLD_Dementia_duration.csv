@@ -1,0 +1,26 @@
+"event_cohort_name","event_seq","AVG_DURATION","COUNT"
+"Other","1",752.967,604
+"Other","2",745.589,6664
+"Other","3",840.644,584
+"Other","4",860.375,40
+"donepezil","1",890.897,30027
+"galantamine","1",1051.799,5473
+"memantine","1",653.785,9188
+"rivastigmine","1",764.393,4997
+"Total treated","1",850.86,50289
+"Total treated","2",745.59,6664
+"Total treated","3",840.64,584
+"Total treated","4",860.38,40
+"All combinations","2",745.59,6664
+"All combinations","1",752.97,604
+"All combinations","3",840.64,584
+"All combinations","4",860.38,40
+"Monotherapy","1",852.05,49685
+"donepezil","Overall",890.9,30027
+"Other","Overall",753.77,7892
+"galantamine","Overall",1051.8,5473
+"memantine","Overall",653.78,9188
+"rivastigmine","Overall",764.39,4997
+"Total treated","Overall",838.58,57577
+"All combinations","Overall",753.77,7892
+"Monotherapy","Overall",852.05,49685
