@@ -4,5 +4,10 @@ postgresql-42.2.18.jar
 .Rhistory
 Results*
 errorReportSql.txt
+<<<<<<< HEAD
 .Rproj.user/*
 .Rproj.user
+=======
+.Rproj.user*
+CodeToRun_local.R
+>>>>>>> 6dfbd6c856c13c2b8f7b5fd33ebe4c2b094bc4b1
