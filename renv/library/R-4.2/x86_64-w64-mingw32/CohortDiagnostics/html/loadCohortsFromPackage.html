@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Load Cohort Definitions From A Study Package</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+
+<table width="100%" summary="page for loadCohortsFromPackage {CohortDiagnostics}"><tr><td>loadCohortsFromPackage {CohortDiagnostics}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Load Cohort Definitions From A Study Package</h2>
+
+<h3>Description</h3>
+
+<p>Load cohort references for usage in executeDiagnostics.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+loadCohortsFromPackage(
+  packageName,
+  cohortToCreateFile = "settings/cohortsToCreate.csv",
+  cohortIds = NULL,
+  errorMessage = NULL
+)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>packageName</code></td>
+<td>
+<p>The name of the package containing the cohort definitions. Can be left NULL if 
+<code>baseUrl</code> and <code>cohortSetReference</code> have been specified.</p>
+</td></tr>
+<tr valign="top"><td><code>cohortToCreateFile</code></td>
+<td>
+<p>The location of the cohortToCreate file within the package. Is ignored if 
+<code>baseUrl</code> and <code>cohortSetReference</code> have been specified. The
+cohortToCreateFile must be .csv file that is expected to be read into 
+a dataframe object identical to requirements for <code>cohortSetReference</code> argument. 
+This csv file is expected to be encoded in either ASCII or UTF-8, if not, an 
+error message will be displayed and process stopped.</p>
+</td></tr>
+<tr valign="top"><td><code>cohortIds</code></td>
+<td>
+<p>Optionally, provide a subset of cohort IDs to restrict the
+diagnostics to.</p>
+</td></tr>
+<tr valign="top"><td><code>errorMessage</code></td>
+<td>
+<p>checkmate assert collection, used internally for error checks</p>
+</td></tr>
+</table>
+
+<hr /><div style="text-align: center;">[Package <em>CohortDiagnostics</em> version 2.2.4 <a href="00Index.html">Index</a>]</div>
+</div></body></html>

@@ -1,0 +1,54 @@
+Package: CohortDiagnostics
+Type: Package
+Title: Diagnostics for OHDSI Cohorts
+Version: 2.2.4
+Date: 2022-03-02
+Authors@R: c(
+    person("Gowtham", "Rao", email = "rao@ohdsi.org", role = c("aut", "cre")),
+    person("Martijn", "Schuemie", email = "schuemie@ohdsi.org", role = c("aut")),
+    person("Patrick", "Ryan", role = c("aut")),
+    person("James", "Weaver", role = c("aut")),
+    person("Jamie", "Gilbert", role = c("aut")),
+    person("Observational Health Data Science and Informatics", role = c("cph"))
+  )
+Maintainer: Gowtham Rao <rao@ohdsi.org>
+Description: Diagnostics for cohorts that use the OMOP Common Data Model and the OHDSI tools.
+Depends: DatabaseConnector (>= 4.0.0), FeatureExtraction (>= 3.1.1), R (>=
+    4.0.0)
+Imports: Andromeda, checkmate, clock, digest, dplyr (>= 1.0.0), methods,
+    ParallelLogger (>= 2.0.0), readr (>= 2.0.1), RJSONIO, rlang, ROhdsiWebApi
+    (>= 1.2.0), SqlRender (>= 1.7.0), stringr, tidyr (>= 1.0.0),
+    CohortGenerator (>= 0.2.0)
+Suggests: CirceR, DT, Eunomia, ggiraph, ggplot2, htmltools, knitr, lubridate,
+    pool, plotly, purrr, RColorBrewer, remotes, rmarkdown, RSQLite (>= 2.2.1),
+    scales, shiny, shinydashboard, shinyWidgets, testthat, withr, zip
+License: Apache License
+VignetteBuilder: knitr
+URL: https://ohdsi.github.io/CohortDiagnostics,
+    https://github.com/OHDSI/CohortDiagnostics
+BugReports: https://github.com/OHDSI/CohortDiagnostics/issues
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Language: en-US
+Author: Gowtham Rao [aut, cre],
+  Martijn Schuemie [aut],
+  Patrick Ryan [aut],
+  James Weaver [aut],
+  Jamie Gilbert [aut],
+  Observational Health Data Science and Informatics [cph]
+Built: R 4.1.3; ; 2022-07-14 13:25:29 UTC; windows
+RemoteType: github
+Remotes: ohdsi/Eunomia, ohdsi/FeatureExtraction, ohdsi/ROhdsiWebApi,
+    ohdsi/CirceR, ohdsi/CohortGenerator
+RemoteHost: api.github.com
+RemoteRepo: CohortDiagnostics
+RemoteUsername: OHDSI
+RemoteRef: HEAD
+RemoteSha: 3836704a674e68964dfa6ef13f8777bcea60780d
+GithubHost: api.github.com
+GithubRepo: CohortDiagnostics
+GithubUsername: OHDSI
+GithubRef: HEAD
+GithubSHA1: 3836704a674e68964dfa6ef13f8777bcea60780d
+Remotes: ohdsi/Eunomia, ohdsi/FeatureExtraction, ohdsi/ROhdsiWebApi,
+    ohdsi/CirceR, ohdsi/CohortGenerator
