@@ -1,1 +1,0 @@
-{ "data" : {"name":"root","children":[{"name":"1","children":[{"name":"End","size":"27"}]}]}, "lookup" : [{ "key": "1", "value": "donepezil"},{ "key": "2", "value": "galantamine"},{ "key": "4", "value": "memantine"},{ "key": "8", "value": "rivastigmine"},{ "key": "16", "value": "Other"},{ "key": "End", "value": "End"}]}
